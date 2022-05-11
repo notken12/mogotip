@@ -11,5 +11,6 @@ cargo install mogotip
 ## use
 
 ```bash
-mogotip
+$ mogotip
+When the Boogeyman goes to sleep every night he checks his closet for Mogo.
 ```
