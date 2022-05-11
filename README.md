@@ -5,7 +5,7 @@ Get a tip about Mogo the lord.
 ## install
 
 ```bash
-cargo install mogotip
+$ cargo install mogotip
 ```
 
 ## use
