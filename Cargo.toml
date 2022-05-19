@@ -10,3 +10,4 @@ repository = "https://github.com/notken12/mogotip"
 
 [dependencies]
 rand = "0.8.5"
+clap = { version = "3.1.18", features = ["derive"] }
